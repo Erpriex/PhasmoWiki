@@ -1,0 +1,22 @@
+# Démon
+
+Les démons sont les entités les plus agressives que nous ayons rencontré. Ils semblent attaquer sans raison aucun et semblent adorer chasser.
+
+## Preuves
+
+- Empreintes digitales
+- Écriture fantômatique
+- Températures glaciales
+
+## Particularités
+
+| Force | Faiblesse | Pouvoir |
+| -------------- | --------------------- | --------------------- |
+| Les démons chassent plus souvent que les autres entités | Les démons ont moins d'impact sur votre santé mentale quand vous utilisez un objet maudit. | "Le Démon ne dispose pas de pouvoir particulier. Il effectuera donc davantage d'apparitions que les autres types d'entité. |
+
+### Remarques
+
+- A une chance d'attaquer à tout moment quand la santé mentale est < 80%
+- A une pause de 20 secondes minimum entre 2 chasses
+- Les bâtons d'ensens sont actifs que 60 secondes au lieu de 90
+- Sur la Planche Ouija, la réponse d'un Démon fera baisser la santé mentale 10% de moins

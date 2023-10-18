@@ -1,0 +1,21 @@
+# Esprit
+
+Les Esprits sont des entités très banales. Ils sont puissants mais passifs et attaquent seulement lorsqu'ils y sont obligés. Ils défendent le lieu de leur décès coûte que coûte, tuant quiconque abuserait de leur hôspitalité.
+
+## Preuves
+
+- EMF niveau 5
+- Sprit Box
+- Écriture fantômatique
+
+## Particularités
+
+| Force | Faiblesse | Pouvoir |
+| -------------- | --------------------- | --------------------- |
+| Rien. | Un Esprit peut être temporairement repoussé en brûlant un bâton d'encens. | L'Esprit ne dispose pas de pouvoir particulier. Il effectuera donc davantage d'apparitions que les autres types d'entité. |
+
+### Remarques
+
+- L'Esprit est l'entité la plus courante. Il est généralement très actif, facile à déterminer et peu menaçant.
+- Utiliser de l'encens à moins de 6 mètres de l'Esprit hors chasse l'empêche de chasser pendant 180 secondes (contre 90 sur une autre entité).
+- L'Esprit est connu pour faire davantage d'interactions en début de partie, facilitant l'apparition de traces d'EMF niveau 5.

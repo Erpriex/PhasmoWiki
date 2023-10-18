@@ -1,0 +1,27 @@
+# Banshee
+
+La sirène chantante, connue pour attirer ses vitimes avec ses chansons. On sait qu'elle identifie précisément sa proie avant de porter le coup fatal.
+
+## Preuves
+
+- Empreintes digitales
+- Orbes fantômatique
+- Projecteur DOTS
+
+## Particularités
+
+| Force | Faiblesse | Pouvoir |
+| -------------- | --------------------- | --------------------- |
+| Une Banshee ne ciblera qu'une seule personne à la fois. | Les Banshee craignent les crucifix et seront moins agressives à proximité d'un. | Le Banshee se déplace vers sa cible (se cacher n'a aucun effet) puis elle attend 20 secondes. Après cela, si ce joueur se situe toujours à proximité, elle lancera une chasse. |
+
+### Remarques
+
+- La Banshee choisit une personne qui sera sa cible favorite
+- Il changera sa cible que lorsque celle-ci sera décédée
+- Le fait que sa cible sois dehors change pas le taux de chasse/apparition
+- Si elle chasse alors que sa cible est dehors, alors elle peut tuer n'importe quel joueur
+- Si elle chasse alors que sa cible est à l'intérieur, alors la Banshee ignore toutes les autres personnes et ne va pas chercher à les tuer
+- Elle aura tendance à attaquer les personnes immobiles proche d'elle (20 secondes sans bouger environ)
+- Le crucifix a un rayon d'activité de 5 mètres
+- Elle chante plus que les autres fantomes lors d'apparition
+- Si utilisation du micro parabolique, il y a une rare chance de créer un cri unique à la Banshee
